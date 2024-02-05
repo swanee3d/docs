@@ -3,7 +3,7 @@ title: My Site
 toc: false
 ---
 
-This is the landing page.
+The results of my tinkering..
 
 ## Explore
 
@@ -13,5 +13,3 @@ This is the landing page.
 {{< /cards >}}
 
 ## Documentation
-
-For more information, visit [Hextra](https://imfing.github.io/hextra).
